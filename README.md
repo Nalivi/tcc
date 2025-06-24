@@ -1,5 +1,4 @@
-### EcoClear![imagem-removebg-preview](https://github.com/user-attachments/assets/22926ce8-0e94-4f6f-83a0-9a09620e7cdc)
-
+### EcoClear<img src="https://exemplo.com/"imagem-removebg-preview.png width="200" />
 
 
 
