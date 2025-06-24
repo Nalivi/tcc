@@ -5,6 +5,14 @@ O propósito central da EcoClear é contribuir para a redução da poluição am
 
 ## Contribuição
 
+feat: adiciona nova funcionalidade de monitoramento
+
+fix: corrige bug na leitura de dados
+
+docs: atualiza documentação
+
+##  Licença
+
 
 
 
