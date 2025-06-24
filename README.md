@@ -1,4 +1,4 @@
-![Logo do Projeto](imagens/imagem.png)
+![Logo do Projeto](imagens/imagem-removebg-preview(3).png)
 # EcoClear
 
 *Acolher é o primeiro passo para transformar*
@@ -23,7 +23,7 @@ A poluição industrial continua sendo uma das principais causas de degradação
 - FRONT WEB
 - FRONT MOBILE
 - INTEGRAÇÃO DE TELAS EM: 
-PSICOLOGOS, CADASTRO, LOGIN, SEUPROBLEMA, DENUNCIA.
+NOTICIAS, CADASTRO, LOGIN, PERFIL, MANITORAMENTO, CONTATO.
 
 ## 👍 Sprints 
 
