@@ -1,4 +1,5 @@
-EcoClear![imagem](https://github.com/user-attachments/assets/8201063b-a8b6-4882-a1ca-f91fcb5a9504)
+EcoClear![imagem-removebg-preview](https://github.com/user-attachments/assets/22926ce8-0e94-4f6f-83a0-9a09620e7cdc)
+
 
 A EcoClear é uma plataforma digital desenvolvida com o objetivo de monitorar e fiscalizar as emissões de poluentes atmosféricos provenientes de atividades industriais. Seu foco está especialmente nos gases tóxicos liberados no meio ambiente, como dióxido de enxofre (SO₂), monóxido de carbono (CO), óxidos de nitrogênio (NOₓ) e partículas finas, que representam sérios riscos à saúde pública e ao equilíbrio ecológico.
 
@@ -6,4 +7,4 @@ Por meio de tecnologia de monitoramento em tempo real, análise de dados e gera�
 
 Contribuição
 
-# tcc
+
