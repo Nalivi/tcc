@@ -1,4 +1,4 @@
-![Logo do Projeto](imagens/imagem-removebg-preview(3).png)
+
 # EcoClear
 
 *Acolher é o primeiro passo para transformar*
@@ -61,8 +61,8 @@ SEGUNDO SEMESTRE:
 - Leticia, Front-End;
 - Murilo, Back-End;
 - Pedro, Back-End;
-- Lorena, Full-Stack;
-- Sophia, Full-Stack;
+- Lorena, Scrum Master,Full-Stack;
+- Sophia, POFull-Stack;
 
 ## 📄 Informações adicionais
 
