@@ -66,7 +66,7 @@ SEGUNDO SEMESTRE:
 
 ## 📄 Informações adicionais
 
-Este projeto faz parte do compromisso com o avanço da igualdade de gênero e o enfrentamento das desigualdades sociais no Brasil.
+Por meio da tecnologia e do monitoramento ambiental, a plataforma contribui para uma sociedade mais justa, inclusiva e sustentável, alinhando inovação com responsabilidade social.
 
 ---
 
